@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "The Best",
+  "base_artist": "Conan Gray",
+  "createdAt": "2026-03-27T13:46:31.174101Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "She Got the Best of Me",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/01_She_Got_the_Best_of_Me_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Best - Edit",
+      "artist": "Tina Turner",
+      "has_synced": true,
+      "path": "select/02_The_Best_-_Edit_Tina_Turner.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Will Always Love You (from the Original Motion Picture Soundtrack Album, \"The Best Little Whorehouse In Texas\")",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/03_I_Will_Always_Love_You_(from_the_Original_Motion_Picture_Soundtrack_Album,__The__Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Best Day",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/04_The_Best_Day_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Best Day (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/05_The_Best_Day_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Best Day (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/06_The_Best_Day_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Best Year Of My Life",
+      "artist": "Eddie Rabbitt",
+      "has_synced": true,
+      "path": "select/07_The_Best_Year_Of_My_Life_Eddie_Rabbitt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You're the Best Thing That Ever Happened to Me",
+      "artist": "Ray Price",
+      "has_synced": false,
+      "path": "select/08_You're_the_Best_Thing_That_Ever_Happened_to_Me_Ray_Price.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You're the Best Thing About Me",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/09_You're_the_Best_Thing_About_Me_U2.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Best Damn Thing",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/10_The_Best_Damn_Thing_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Best Day",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/11_The_Best_Day_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Best Mistake I've Ever Made",
+      "artist": "王若琳",
+      "has_synced": true,
+      "path": "select/12_The_Best_Mistake_I've_Ever_Made_王若琳.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I’m The Best",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/13_I’m_The_Best_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Best Ever Death Metal Band in Denton",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/14_The_Best_Ever_Death_Metal_Band_in_Denton_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Best Revenge (AutoKratz Righteous Retribution Mix)",
+      "artist": "Fischerspooner",
+      "has_synced": false,
+      "path": "select/15_The_Best_Revenge_(AutoKratz_Righteous_Retribution_Mix)_Fischerspooner.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ima shine like the best coke that u ever had",
+      "artist": "Smrtdeath",
+      "has_synced": false,
+      "path": "select/16_ima_shine_like_the_best_coke_that_u_ever_had_Smrtdeath.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rockin' With The Best",
+      "artist": "Bomfunk MC's",
+      "has_synced": true,
+      "path": "select/17_Rockin'_With_The_Best_Bomfunk_MC's.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Doing the Best That I Can (Escape from Berlin)",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/18_Doing_the_Best_That_I_Can_(Escape_from_Berlin)_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Only The Best Will Do",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/19_Only_The_Best_Will_Do_ABC.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Best",
+      "artist": "Conan Gray",
+      "has_synced": false,
+      "path": "select/pl_01_The_Best_Conan_Gray.txt"
+    }
+  ]
+}
