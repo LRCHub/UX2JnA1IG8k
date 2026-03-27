@@ -1,0 +1,80 @@
+# Conan Gray – The Best
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+It was a bad time,
+wouldn't go back
+But memories of good times,
+they really last
+Arms in your sweatshirt,
+primrose at night
+Mint chocolate ice cream,
+your hazel eyes
+I know it's so low to hate you
+For leaving without me
+But why leave so quickly
+Do you miss me?
+Did all of this past year
+mean anything?
+Maybe it's all in my mind
+I swear if I saw you tonight
+We could make peace with it,
+not have to sleep with it
+Haunting me all of the time
+I'd take back the shit
+that I said
+When I was so pissed that
+you left
+I could make peace with it,
+finally sleep with it
+Finally wish you the best
+Grew out your buzz cut,
+now my hair is short
+Nothing like it once was,
+when I was yours
+I still remember that night
+you left, closed the door
+And you stood by the
+window waiting
+Like you were gonna
+say something
+But you just walked away
+Maybe it's all in my mind
+I swear if I saw you tonight
+We could make peace with it,
+not have to sleep with it
+Haunting me all of the time
+I'd take back the shit
+that I said
+When I was so pissed that
+you left
+I could make peace with it,
+finally sleep with it
+Finally wish you the best
+Finally wish you the best
+Sometimes I wonder,
+were we ever even friends?
+Sometimes I wonder if it
+really is the end
+I wanna watch you
+While the words come out
+your mouth
+That you don't miss me like
+I know you miss me now
+I know you miss me now
+Maybe it's all in my mind
+But I swear if I saw you tonight
+We could make peace with it,
+not have to sleep with it
+Haunting me all of the time
+I'd take back the shit
+that I said
+When I was so pissed that
+you left
+I could make peace with it,
+finally sleep with it
+Finally wish you the best
+Finally wish you the best
+Finally wish you the—
+```
